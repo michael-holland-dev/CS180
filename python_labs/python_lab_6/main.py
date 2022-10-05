@@ -1,6 +1,6 @@
 import argparse
 
-def main(number: int):
+def main(number):
     # Write the code to determine whether or not a number is a pallindrome here.
     # Make sure that your terminal output matches the terminal output of the example given on the instructions.
     
