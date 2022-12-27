@@ -19,16 +19,6 @@ import os
 
 
 
-## Permitted Libraries
-```
-import numpy
-
-import math
-
-import argparse
-
-import os
-```
 
 ## Test Cases
 
