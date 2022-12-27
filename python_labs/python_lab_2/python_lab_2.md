@@ -1,4 +1,4 @@
-# Python Lab 2
+# Python Lab 2: Word Count
 
 ## Description
 Counting words in strings is an important data science task that is used in a variety of real-world scenarios. Twitter's “Trending” feature is a large scale word count algorithm.

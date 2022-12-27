@@ -1,4 +1,4 @@
-# Python Lab 4
+# Python Lab 4: Mean and Variance
 
 ## Description
 

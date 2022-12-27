@@ -1,4 +1,4 @@
-# Python Lab 5
+# Python Lab 5: Reverse Words in a String
 
 ## Description
 Given a string `s`, reverse the order of characters in a sentence while still preserving whitespace.

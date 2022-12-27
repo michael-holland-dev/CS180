@@ -1,4 +1,4 @@
-# Python Lab 3
+# Python Lab 3: Cube Function
 
 ## Description
 Write a function `cube(n: Int):` Int that takes the first n cubes (i.e. `[1^3, 2^3, ..., n^3]`), keeps the ones where the first digit is even (e.g., 3^3 = 27) then adds those up and prints that answer to the terminal.

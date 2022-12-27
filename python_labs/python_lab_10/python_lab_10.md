@@ -1,4 +1,4 @@
-# Python Lab 10
+# Python Lab 10: Feature Engineering
 
 ## Description
 Feature engineering is a critical part of building a good classification or regression model. In class, we discussed engineering features from raw text emails to predict whether or not an email is spam. One set of features we looked at was word counts. 

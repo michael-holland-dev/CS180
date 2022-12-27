@@ -1,4 +1,4 @@
-# Python Lab 6
+# Python Lab 6: Palindrome Number
 
 ## Description
 
